@@ -9,8 +9,11 @@ To run this project clone the repo and install a local server
 ```
 $ npm install http-sever -g
 
-Navigate to the app directory
+```
 
+Navigate to the local app directory
+
+```
 $ cd blackjack
 $ http-server
 
